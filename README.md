@@ -1,4 +1,4 @@
-# textovy_analyzator
+# Textový analyzátor
 V tomto projektu jsem vytvořila textový analyzátor - program, který se umí prokousat libovolně dlouhým textem a zjistit o něm různé informace.
 
 Program skontroluje, zda je uživatel registrovaný, nechá uživatele vybrat ze tří zadaných textů.
